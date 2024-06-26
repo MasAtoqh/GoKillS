@@ -1,6 +1,6 @@
 # 🚽 GoKillS: IoT-Based WC Cleanliness Detection Using MQ-135 Sensor for Ammonia Monitoring
 
-<h2 align="center">Halo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , Kami dari kelompok 9</h2>
+<h2 align="center">Halo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , Kami dari GoKillS</h2>
 <p align="center">
 </p>
 
